@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.ui.cards > .card > .image > img {
+  height: 250px;
+  padding: 20px;
+  background: #fff;
+  margin: auto;
+}
+
+.ui.cards > .card > .content > .header {
+  height: 48px;
+  overflow: hidden;
+}
